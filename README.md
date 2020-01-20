@@ -1,2 +1,2 @@
-# Bank-studies
-Studies of client and forecast of classification variables with machine learning
+# Final-project-bank-marketing
+Analize the features of  bank clients
